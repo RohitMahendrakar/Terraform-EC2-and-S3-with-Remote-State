@@ -1,5 +1,3 @@
-Here’s an enhanced version of your `README.md` file, adding clarity, structure, and helpful details for both beginners and experienced users. This should make the repo more comprehensive and professional:
-
 ```markdown
 # Terraform EC2 and S3 with Remote State
 
